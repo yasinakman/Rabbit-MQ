@@ -1,0 +1,1 @@
+{"id":1,"city":null,"temp":null,"unit":null,"receivedTime":"Tue Oct 12 19:43:16 EET 2021"}{"id":2,"city":"Istanbul","temp":null,"unit":null,"receivedTime":"Tue Oct 12 19:45:43 EET 2021"}{"id":1,"city":"IST","temp":null,"unit":null,"receivedTime":"Thu Oct 14 17:20:10 EET 2021"}
