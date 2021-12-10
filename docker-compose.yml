@@ -1,0 +1,8 @@
+version: "3.7"
+services:
+  rabbitmq3:
+    image: rabbitmq:3-management
+    container_name: rabbitmq-ui
+    ports:
+      - 5672:5672
+      - 15672:15672
